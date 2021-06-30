@@ -1,0 +1,11 @@
+1. Add build in internal testing and only rollout it. App will be available within a minute
+2. Using join link take access of app like below.
+https://play.google.com/apps/internaltest/4699014259668830263/join
+3. Click on  download it on Google Play , will show internal added build version.
+4. On Play store add tester also before adding build in internal testing.
+5. in the Licence testing add your email id from which to test and licence to RESPOND_NORMALLY select.
+https://play.google.com/console/u/0/developers/5780755169185684096/license-tester  (This allow your purchase to be purchase in test mode , no need to real CC)
+
+
+
+You need to have access of subscription tab , licence testing , store listing tab .
