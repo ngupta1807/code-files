@@ -12,3 +12,8 @@ Adding licence testing id will provide access to test payment , but that account
 https://play.google.com/console/u/0/developers/5780755169185684096/users-and-permissions
 
 You need to have access of subscription tab , licence testing , store listing tab .
+
+
+To Get expiry date do below steps: Need to have access of below page : https://play.google.com/console/u/0/developers/5780755169185684096/api-access
+
+https://stackoverflow.com/questions/11115381/unable-to-get-the-subscription-information-from-google-play-android-developer-ap?rq=1
