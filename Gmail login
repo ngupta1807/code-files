@@ -10,6 +10,12 @@ Setup app on firebase and console :
 
 5). Goto console.firebase.com
 
+In the Firebase console, select Add Project.
+
+Select your GCM project from the list of existing Google Cloud projects, and select Add Firebase.
+
+In the Firebase welcome screen, select Add Firebase to your Android App.
+
 6). download google-service.json move it into your project into app directory
 
 7). Open google-service.json and find out client id type 3 and use it as default_web_client_id
