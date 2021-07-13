@@ -1,0 +1,17 @@
+Setup app on firebase and console :
+
+1). Goto https://console.developers.google.com/ and delete (Android Client) if it is created.
+
+2). Click on Create Credential and click on OAuthClientID and select android
+
+3). copy and paste your SHA 1 fingerprint
+
+4). type your package name then saved
+
+5). Goto console.firebase.com
+
+6). download google-service.json move it into your project into app directory
+
+7). Open google-service.json and find out client id type 3 and use it as default_web_client_id
+
+8). Run your App
